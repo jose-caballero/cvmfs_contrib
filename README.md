@@ -4,10 +4,11 @@
 
 # Overview
 
-This repository contains additional components (plugins, extensions) for the [CernVM-FS](https://github.com/cvmfs/cvmfs).
-
-This repository is part of the CernVM-FS project.
+This repository contains additional components (plugins, extensions) for [CernVM-FS](https://github.com/cvmfs/cvmfs).
 
 # Issues
 
 To report an issue, use the [cvmfs_contrib issue tracker](https://github.com/cvmfs/cvmfs_contrib/issues) at github.com.
+
+
+This repository is part of the CernVM-FS project.
